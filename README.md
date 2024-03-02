@@ -5,6 +5,7 @@ Analyze Seattle Airbnb data with interactive Tableau dashboard. Explore average 
 This repository showcases an interactive dashboard built using Tableau Public to analyze and visualize Airbnb listing data for Seattle. Gain insights into average pricing trends and distribution across various zip codes. While the full .twbx file cannot be downloaded directly from Tableau Public, you can explore it online through the following options:
 
 **Explore the published dashboard:** https://public.tableau.com/app/profile/tushar.singh6705/viz/AirbnbTableauProject_17094144150720/Sheet1?publish=yes (Screenshots of the main dashboard are provided in the `screenshots` folder.)
+**Data:** The raw data used in this project is provided in the `data` folder.
 
 **Project Overview:**
 
